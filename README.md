@@ -1,13 +1,14 @@
 # -Placement-Score-Prediction-
 
-~ In this project, we are going to discuss how to predict the placement score of a student based on their using Linear regression algorithm.
+~ This Project is about to Predict the Placement Score of a student based on their CGPA using Machine Learning Algorithm.
 
-~ This study focuses on a system, that predicts if a student would be placed or not based on their CGPA.
+~ Since this is a Regression based problem (were we use to predict the continuous values) we use a supervised machine learning algorithm called Linear Regression.
 
-~ This predictor uses a machine-learning algorithm to give the result. The algorithm used is Linear regression.
+~ This study focuses on a system, that predicts if a student would be placed or not based on their CGPA using Machine Learning Algorithm.
 
 Linear Regression:
 
 ~ Linear regression uses the relationship between the data-points to draw a straight line through all them.
 
-~ This line can be used to predict future values.
+~ This regression line can be used to predict future values.
+
